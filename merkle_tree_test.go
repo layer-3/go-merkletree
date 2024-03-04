@@ -28,7 +28,7 @@ import (
 	"math/rand"
 	"testing"
 
-	"github.com/txaty/go-merkletree/mock"
+	"github.com/layer-3/go-merkletree/mock"
 )
 
 func mockDataBlocks(num int) []DataBlock {
