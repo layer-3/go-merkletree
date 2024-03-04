@@ -29,7 +29,7 @@ import (
 
 	"github.com/agiledragon/gomonkey/v2"
 
-	"github.com/txaty/go-merkletree/mock"
+	"github.com/layer-3/go-merkletree/mock"
 )
 
 func TestMerkleTree_Proof(t *testing.T) {
